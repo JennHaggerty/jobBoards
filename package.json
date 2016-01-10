@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "base-64": "^0.1.0",
     "jquery": "^2.1.4",
+    "jsdom": "^7.2.2",
     "nodemailer": "^1.10.0",
     "request": "^2.67.0",
     "xml2js": "^0.4.15"
