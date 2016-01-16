@@ -15,5 +15,8 @@
     "nodemailer": "^1.10.0",
     "request": "^2.67.0",
     "xml2js": "^0.4.15"
+  },
+  "devDependencies": {
+    "supervisor": "^0.9.1"
   }
 }
